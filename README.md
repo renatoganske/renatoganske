@@ -1,6 +1,6 @@
 ## **Olá! Eu sou o Renato Ganske! Seja bem vindo ao meu perfil!**
 
-- 🔭 Atualmente trabalho com fotografia, mas estou em fase de transição de carreira para tecnologia!
+- 🔭 Em transição de carreira para tecnologia!
 - 🌱 Estou fazendo o curso de formação de desenvolvedor Full Stack Jr na StrackX, e atualmente estou no módulo de Front End.
 - 😄 Pronomes: ele/dele
 
