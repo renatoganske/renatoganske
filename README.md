@@ -1,7 +1,8 @@
 ## **Olá! Eu sou o Renato Ganske! Seja bem vindo ao meu perfil!**
 
 - 🔭 Em transição de carreira para tecnologia!
-- 🌱 Estou fazendo o curso de formação de desenvolvedor Full Stack Jr na StrackX, e atualmente estou no módulo de Front End.
+- 👨🏼‍💻 Desenvolvedor Junior na Lyncas
+- 🌱 Estou fazendo o curso de formação de desenvolvedor Full Stack Jr na StrackX, e atualmente estou no módulo de Back End.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
