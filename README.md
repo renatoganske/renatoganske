@@ -1,4 +1,4 @@
-## **Olá! Eu sou o Renato Ganske! Seja bem vindo ao meu perfil!**
+## **Olá! Eu sou o Renato Ganske Júnior! Seja bem vindo ao meu perfil!**
 
 - 🔭 Em transição de carreira para tecnologia!
 - 👨🏼‍💻 Desenvolvedor Java na Lyncas
