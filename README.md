@@ -1,19 +1,30 @@
-## **Olá! Eu sou o Renato Ganske Júnior! Seja bem vindo ao meu perfil!**
+<h3 align="left">Olá! Eu sou o Renato Ganske Júnior! Seja bem vindo ao meu perfil!</h3>
 
-- 🔭 Em transição de carreira para tecnologia!
-- 👨🏼‍💻 Desenvolvedor Java na Lyncas
-- 👨‍💻 Cada vez mais fascinado pelo universo da tecnologia!
-- 😄 Pronomes: ele/dele
+###
+<p align="left">- 🔭 Em transição de carreira para tecnologia!<br>- 👨🏼‍💻 Desenvolvedor Java na Lyncas<br>- 👨‍💻 Cada vez mais fascinado pelo universo da tecnologia!<br>- 😄 Pronomes: ele/dele</p>
 
+###
 <div align="center">
-  <a href="https://github.com/renatoganske">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoganske&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoganske&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=renatoganske" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=renatoganske" height="150" alt="languages graph"  />
+</div>
 
-  <a href="https://instagram.com/renatoganskejr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renatoganske.jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renatoganskejr"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+</div>
 
-  
-  ##
+###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://twitter.com/renato_junior" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="discordapp.com/users/Ganske#9206" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
