@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Eu sou o Renato Ganske Júnior! Seja bem vindo ao meu perfil!</h3>
+<h2 align="left">Olá! Eu sou o Renato Ganske Júnior! Seja bem vindo ao meu perfil!</h3>
 
 ###
 <p align="left">- 🔭 Em transição de carreira para tecnologia!<br>- 👨🏼‍💻 Desenvolvedor Java na Lyncas<br>- 👨‍💻 Cada vez mais fascinado pelo universo da tecnologia!<br>- 😄 Pronomes: ele/dele</p>
